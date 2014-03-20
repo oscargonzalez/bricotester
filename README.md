@@ -1,4 +1,3 @@
-bricotester
+BricoTester
 ===========
-
-BricoTester - Comprobador de servos y motores paso a paso basado en Arduino
+BricoTester - Simple tester for servos and stepper motors based on Arduino
